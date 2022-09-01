@@ -1,0 +1,1 @@
+const words = ["append","len","if","while","for","input","text","range","elseif","float","pop","push","int","true",];

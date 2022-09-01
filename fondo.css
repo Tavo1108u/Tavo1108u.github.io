@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(paraweb2.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+    
+    
+
+
+}
+h1{
+    color:lime;
+    font-family:'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color:aqua;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+form{
+    color:cornflowerblue;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+ul{
+    color:rgb(0, 183, 255);
+    width: 900px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
